@@ -1,5 +1,5 @@
 # YouTube_to_Spotify_FINAL_PUBLIC
-This is a little project I went through to learn Python
+This is a little project I went through to learn Python.
 It was inspired by: The Come Up -> https://www.youtube.com/watch?v=7J_qcttfnJA
 I've enhanced the scope to cover more options and to experiment with other Python libraries
 
